@@ -1,0 +1,11 @@
+// Basic application includes. Here we should import Bulma
+// settings, our own variables, mixins and functions.
+@import 'variables';
+@import '~bulma';
+
+body{
+  font-family: arial, sans-serif;
+  font-weight: 300;
+  font-size: 14px;
+}
+
